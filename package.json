@@ -1,0 +1,12 @@
+{
+  "name": "herokuandnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Myserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Myserver.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
